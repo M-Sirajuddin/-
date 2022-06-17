@@ -1,0 +1,41 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "\https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjHiuhJHClxpvgC3sWGh69eeZsu1EirvBgBa7VCpI8vCdNRClxIWeehX--sgi6n6QH_yG_F1-tdlHzeeLG3o_ZJdm8oV9npX_Ju8fyIzHnR37booBdd-qDwu0ekJqdHBPD7HsHwUkbqTmebsReGZxc0cSlHBtjy7r7TXdw9uVls87aydCZ6L5OjJgibQ/s32/favicon-32x32.png",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEircw9fdRTbtoa-3paKrnQj8VG-yfI4NxxYFQULw8oqhea5wa7-bjTQ9RZ8ebZrS4IU-G3FQSH8kzgsDK43it4nFfXk6quGgAOCjI7--09jbiGvq9RGp-rORTY3c67brLtHChCyZtWDuiau84PCINRRlx_YqXnrLdtjhUhG_kj6pmISVQWk-E7tjMZIQw/s57/apple-touch-icon-57x57.png",
+   "sizes": "48x48",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "\https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQXHDT6bxueWATv2GXafRks0fQEXDbYQfN84ExiU_iUoJAeuRhT6DMgWM-m5Mfm6XrBDdv5CDqSUYcWtuM1RsLmQJ6T4h7vnuL-4BkPeQnvHKvVF0Ccl6DjfWdIzngxOW2eO5fwGZZEOY6Lh6gwXFDtZEzmIQXWgPTWH-8C8DiG3xUfTVXCa6dcJOcfQ/s72/apple-touch-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "\https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UY6ZqxOM76jgg6-DCxYFyCnSvGQoSFrRhTrVqEuhEcr-Vp2VrZ9c1Edk9kP2zrOowBPOYRGa6vRSXwYT-K7ozJXc1COuHJpRjiC9yAqZv1Zzue-BX8CEF7_qwD5sN6tNdbK37e-y9VqzyiF1FO4MKYKBaSJhTgojQf4MEx0J1Fl0NoKcGtYTocp5Kg/s96/apple-touch-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  },
+  {
+   "src": "\https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinc9U1WTU0nxwkoVe3qsYXN3-OH5NgIMZLhKzEZmdIMle07nkXMfIux4mvIKbPjATCpitLSTBZiqdN7tfQxLKvsTdWnGmdZR6K8TLc06kUGjQ7Wn4BcwwqI6wSO0ZLGe7xyM21NFt4o9LFj34AMRLSkhEKVNnz9qc4zT9xIFHHYDZuppA3wwB9Rx_LTA/s144/apple-touch-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+   "src": "\https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyamrmo6ds-JFRix9TtdiNqbzLGSJoo2s_jabflbjosFDcuTDr4apzOpZUxWuK-2D-BIFk4-i-41FrP8v0hSWa2Ft_UbEozo6CfACPWAz2mstPu8L6xu3vr_3tGsmFvm_AzuP1NwU-X2Mxv1hSfjklI3NA1bHwTOCmUaDbkF47_9Ve-cYtX7g0TSqZGw/s192/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image\/png",
+   "density": "4.0"
+  }
+ ]
+}
