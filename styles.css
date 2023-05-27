@@ -14584,8 +14584,8 @@
   }
   .cnav nav ul li a{
     color: rgb(0, 0, 0);
-    font-size: 17px;
-    padding: 7px 13px;
+    font-size: calc(4px + 1vw);
+    padding: 7px 10px;
     border-radius: 3px;
     font-weight: bold;
     text-transform: uppercase;
